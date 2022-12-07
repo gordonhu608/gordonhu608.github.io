@@ -6,12 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-logo                     : "/assets/images/cz.png"
+logo                     : "/images/wh.jpg"
 locale                   : "en-US"
 title                    : "Wenbo Hu"
 title_separator          : "-"
 name                     : &name "Wenbo Hu"
-description              : &description "University of California Student"
+description              : &description "University of California, San Diego Student"
 url                      : https://gordonhu608.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gordonhu608/gordonhu608.github.io"
