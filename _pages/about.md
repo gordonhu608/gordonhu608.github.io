@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Hi, this is Charles!"
+title: "Hi, this is Wenbo!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<!--
+
 Hi, this is Charles (张子晨)! I am a third-year student majoring mathematics and computer science at [Macalester College](https://www.macalester.edu/) advised by Prof. [Andrew Beveridge](https://mathbeveridge.github.io/), and Prof. [Susan Fox](https://www.macalester.edu/~fox/). Recently, I am researching adversarial reset-free reinforcement learning with sink states mentored by [Luca Weihs](https://lucaweihs.github.io/) from [Allen Institute for AI (AI2)](https://allenai.org/). 
 
 [[Curriculum Vitae]](https://zcczhang.github.io/files/CV.pdf)
@@ -32,5 +34,5 @@ I love to see the aurora driving four hours away from my school, and I indulge i
 <summary>
 Total Visitors
 </summary>
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=5ee2ff&w=400&t=tt&d=5De8UX9TDFsVQrQw4cE3CBhNblYyl2vQbk42qsTB9Fw&co=ffffff&cmo=d99cff&cmn=ffa3b9&ct=808080"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Jad5BYaZCzNJ3nTHD9TyOF7cJdnqoYChQrF6nELpqcs&cl=ffffff&w=a"></script>
 </details>

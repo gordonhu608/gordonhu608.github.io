@@ -37,6 +37,16 @@ staticman:
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
+
+
+
+
+
+
+
+
+
+
   format                 : "yml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
@@ -82,7 +92,7 @@ analytics:
 # Site Author
 author:
   name             : 
-  avatar           : "headshot.png"
+  avatar           : "profile.png"
   bio              : '<font size=3.5><strong>Wenbo (Gordon) Hu</strong></font><br><br> Contributing to Computer Vision Field'
   location         : "San Diego, CA"
   employer         :
