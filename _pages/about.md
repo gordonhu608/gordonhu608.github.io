@@ -34,5 +34,5 @@ I love to see the aurora driving four hours away from my school, and I indulge i
 <summary>
 Total Visitors
 </summary>
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Jad5BYaZCzNJ3nTHD9TyOF7cJdnqoYChQrF6nELpqcs&cl=ffffff&w=a"></script>
+<a href="https://clustrmaps.com/site/1brrj"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=Jad5BYaZCzNJ3nTHD9TyOF7cJdnqoYChQrF6nELpqcs&cl=ffffff" /></a>
 </details>

@@ -1,8 +1,8 @@
 papers:
-  - name: Maniskill 2022 Challenge 
+  - name: maniskill
     title:
       name: "MANISKILL2: A Unified Benchmark For Generalizable Manipulation Skills"
-      link: https://vimalabs.github.io/
+      link: https://sapien.ucsd.edu/challenges/maniskill/2022/
     authors:
       - name: Anonymous authors. Paper under double-blind review
     conference:
@@ -14,7 +14,8 @@ papers:
       - name: code
         href: https://github.com/haosulab/ManiSkill2
       - name: paper
-        paperurl: /files/Maniskill.pdf
+        href: files/Maniskill.pdf
+        
     description: The ManiSkill 2022 Challenge is a large-scale robotic manipulation challenge that seeks to benchmark generalizable robotic agents that can interact with the 3D world like we humans do. The challenge features diverse objects and diverse task categories in SAPIEN, a fully-physical, realistic simulator.
     highlighted: true
     nogif: true
