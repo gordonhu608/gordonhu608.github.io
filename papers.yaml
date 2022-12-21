@@ -25,9 +25,8 @@ papers:
       name: "Image segmentation + Iterative Closest Point Algorithm solving 6D Pose Estimation Problem"
     authors:
       - me: true
-      - name: 
     conference:
-      year: 2022
+      year: Feburary 2022
     links:
       - name: code
         href: https://github.com/gordonhu608/Su_Lab_research_training/tree/main/models_training/icp
@@ -42,4 +41,52 @@ papers:
     highlighted: true
     nogif: true
 
+  - name: lstm
+    title:
+      link: files/lstm.pdf
+      name: "Image Captioning Experiments with RNN Models on COCO's dataset"
+    authors:
+      - me: true
+      - name: Wenxiao Li
+      - name: Huaning Liu
+      - name: Garrison W Cottrell
+        href: https://cseweb.ucsd.edu/~gary/
+    conference:
+      year: January 2022
+    links:
+      - name: code
+        href: https://github.com/gordonhu608/Deep-Learning-Projects-CSE151B-/tree/main/Codes/pa4
+      - name: report
+        href: files/lstm.pdf
+        
+    description: We designed and implemented a recurrent neural network
+                that generates captions for images in the provided dataset. This framework contains an encoder (convolutional) that takes the images as input and encode them to features; and a decoder (LSTM) that predicts and generates
+                the captions. Based on the framework, several related models, including baseline
+                model, Vanilla RNN and Architecture2 are configured, trained, finetuned, and tested
+                based on the given CoCo dataset.  
+    highlighted: true
+    nogif: true
+
+  - name: siim
+    title:
+      link: files/siim.pdf
+      name: "SIIM-FISABIO-RSNA COVID-19 Detection Competition"
+    authors:
+      - me: true
+      - name: Xinrui Zhan
+      - name: Kewen Zhao
+      - name: Albert Kong
+      - name: Yung-Chieh (Jerry) Chan
+
+    conference:
+      year: August 2021
+    links:
+      - name: code
+        href: https://github.com/gordonhu608/sims-classfication
+      - name: presentation
+        href: files/siim.pdf
+        
+    description: In this competition, we identified and localized COVID-19 abnormalities on chest radiographs. In particular, we categorized the radiographs as negative for pneumonia or typical, indeterminate, or atypical for COVID-19. Our model will work with imaging data and annotations from a group of radiologists.This model will help radiologists diagnose the millions of COVID-19 patients more confidently and quickly.
+    highlighted: true
+    nogif: true
 
