@@ -6,7 +6,7 @@ papers:
     authors:
       - name: Anonymous authors. Paper under double-blind review
     conference:
-      name: under review, ICLR 2023 
+      name: under review, ICLR 2023 <br>
     links:
       - name: chanllenge website
         href: https://sapien.ucsd.edu/challenges/maniskill/2022/
@@ -25,7 +25,8 @@ papers:
       name: "Image segmentation + Iterative Closest Point Algorithm solving 6D Pose Estimation Problem"
     authors:
       - me: true
-      - name: 
+      - name: Hao Su
+        href: https://cseweb.ucsd.edu/~haosu/
     conference:
       year: Feburary 2022
     links:
@@ -85,8 +86,7 @@ papers:
       - name: code
         href: https://github.com/gordonhu608/sims-classfication
       - name: presentation
-        href: files/siim.pdf
-        
+        href: files/siim.pdf     
     description: In this competition, we identified and localized COVID-19 abnormalities on chest radiographs. In particular, we categorized the radiographs as negative for pneumonia or typical, indeterminate, or atypical for COVID-19. Our model will work with imaging data and annotations from a group of radiologists.This model will help radiologists diagnose the millions of COVID-19 patients more confidently and quickly.
     highlighted: true
     nogif: true
