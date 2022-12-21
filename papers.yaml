@@ -6,8 +6,7 @@ papers:
     authors:
       - name: Anonymous authors. Paper under double-blind review
     conference:
-      name: under review, ICLR 2023 <br>
-      year: 2022
+      name: under review, ICLR 2023 
     links:
       - name: chanllenge website
         href: https://sapien.ucsd.edu/challenges/maniskill/2022/
@@ -19,4 +18,26 @@ papers:
     description: The ManiSkill 2022 Challenge is a large-scale robotic manipulation challenge that seeks to benchmark generalizable robotic agents that can interact with the 3D world like we humans do. The challenge features diverse objects and diverse task categories in SAPIEN, a fully-physical, realistic simulator.
     highlighted: true
     nogif: true
+
+  - name: icp
+    title:
+      name: "Image segmentation + Iterative Closest Point Algorithm solving 6D Pose Estimation Problem"
+    authors:
+      - name: Wenbo Hu
+    conference:
+      year: 2022
+    links:
+      - name: code
+        href: https://github.com/gordonhu608/Su_Lab_research_training/tree/main/models_training/icp
+      - name: report
+        href: files/icp.pdf
+        
+    description: A full pose estimation
+                  pipeline on the synthetic dataset. The objective is to predict object poses for all the objects of interest in
+                  the scene given the image and the depth map (no semantic segmentation provided). The pipeline is to first use a segmentation network (e.g., U-Net) to segment
+                  all objects in an image, and then use a learning-based method, ICP, or a combination to estimate the
+                  pose for each segmented object. 
+    highlighted: true
+    nogif: true
+
 
