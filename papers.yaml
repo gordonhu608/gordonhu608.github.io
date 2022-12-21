@@ -25,6 +25,7 @@ papers:
       name: "Image segmentation + Iterative Closest Point Algorithm solving 6D Pose Estimation Problem"
     authors:
       - me: true
+      - name: 
     conference:
       year: Feburary 2022
     links:
