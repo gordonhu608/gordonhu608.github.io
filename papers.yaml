@@ -21,9 +21,11 @@ papers:
 
   - name: icp
     title:
+      link: files/icp.pdf
       name: "Image segmentation + Iterative Closest Point Algorithm solving 6D Pose Estimation Problem"
     authors:
-      - name: Wenbo Hu
+      - me: true
+      - name: 
     conference:
       year: 2022
     links:
